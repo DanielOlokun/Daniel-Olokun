@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Features
+## ⌨️ Languages Used
 
 - 📅 Custom weekly timetable based on inputs
 - 🔁 Dynamic rescheduling as deadlines approach
