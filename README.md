@@ -22,10 +22,12 @@
 **Frontend**:  
 - React  
 - TailwindCSS
+- HTML
 
 **Backend**:  
 - Django REST Framework  
 - PostgreSQL
+- Flask
 
 **DevOps**:  
 - Docker & Docker Compose  
