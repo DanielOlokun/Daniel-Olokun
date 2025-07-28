@@ -32,7 +32,8 @@
 **DevOps**:  
 - Docker & Docker Compose  
 - GitHub Actions  
-- Deployed on Render / Fly.io
+- Git
+- Gitlab
 
 ---
 
