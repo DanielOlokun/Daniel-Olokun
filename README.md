@@ -35,19 +35,4 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Dashboard | Timetable |
-|----------|-----------|
-| ![dashboard](screenshots/dashboard.png) | ![timetable](screenshots/timetable.png) |
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-study-planner.git
-cd smart-study-planner
 
