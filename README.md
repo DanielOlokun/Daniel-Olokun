@@ -1,8 +1,10 @@
-# Daniel-Olokun
+# Daniel Olokun
 
-# 🎓 DCU Smart Study Planner
+# 👋 Hello, 
 
-A full-stack study planner web app designed for DCU students. It helps schedule study sessions intelligently based on your course modules, deadlines, and availability.
+My name is Daniel Olokun.
+I am a computer science student at Dublin City University.
+Looking to connect with fellow students and developers
 
 ---
 
