@@ -1,8 +1,7 @@
 # Daniel Olokun
 
-# 👋 Hello 
+# 👋 Hello, I'm Daniel
 
-- My name is Daniel Olokun.
 - I am a computer science student at Dublin City University.
 - Looking to connect with fellow students and developers
 
