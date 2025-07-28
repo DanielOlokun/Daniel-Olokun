@@ -2,9 +2,9 @@
 
 # Hello 👋
 
-- 📚I am a computer science student at Dublin City University. 
-- 👥Looking to connect with fellow students and developers.
-- 💻I enjoy building/developing projects and Competitive Programming.
+- 📚 I am a computer science student at Dublin City University. 
+- 👥 Looking to connect with fellow students and developers.
+- 💻 I enjoy building/developing projects and Competitive Programming.
 
 ---
 
